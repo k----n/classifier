@@ -1,4 +1,4 @@
-module github.com/neurlang/classifier
+module github.com/k----n/classifier
 
 go 1.18
 
